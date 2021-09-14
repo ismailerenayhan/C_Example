@@ -1,0 +1,27 @@
+17:15:38 **** Incremental Build of configuration Debug for project Strdos ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Strdos\\source\\inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "source\\src\\main.o" "..\\source\\src\\main.c" 
+..\source\src\main.c: In function 'main':
+..\source\src\main.c:25:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'char *' [-Wformat=]
+  scanf("%d",&s);
+         ~^  ~~
+         %c
+..\source\src\main.c:25:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'char *' [-Wformat=]
+  scanf("%d",&s);
+         ~^  ~~
+         %c
+..\source\src\main.c:28:21: warning: array subscript has type 'char' [-Wchar-subscripts]
+    strcgets(&(kitler[i]));
+                     ^
+..\source\src\main.c:31:19: warning: array subscript has type 'char' [-Wchar-subscripts]
+    strcprnt(kitler[i]);
+                   ^
+..\source\src\main.c: In function 'fileread':
+..\source\src\main.c:64:17: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'char (*)[100]' [-Wformat=]
+  fscanf(dosya,"%s",&dizi);
+                ~^  ~~~~~
+..\source\src\main.c:64:17: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'char (*)[100]' [-Wformat=]
+gcc -o Strdos.exe "source\\src\\main.o" 
+
+17:15:40 Build Finished. 0 errors, 6 warnings. (took 1s.951ms)
+

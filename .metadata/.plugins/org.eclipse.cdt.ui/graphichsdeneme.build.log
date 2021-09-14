@@ -1,0 +1,10 @@
+18:45:39 **** Incremental Build of configuration Debug for project graphichsdeneme ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:1:10: fatal error: graphics.h: No such file or directory
+ #include <graphics.h>
+          ^~~~~~~~~~~~
+compilation terminated.
+
+18:45:43 Build Failed. 1 errors, 0 warnings. (took 3s.702ms)
+

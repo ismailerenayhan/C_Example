@@ -1,0 +1,5 @@
+struct nesne gibi
+enum stuct a benzer bişey
+typdef değişken tanımlamak için
+unions birlik 
+processor include define vs

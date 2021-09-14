@@ -1,0 +1,9 @@
+14:25:32 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+..\Src\states.c:61:8: error: expected declaration specifiers or '...' before string constant
+ printf("Hello World");
+        ^
+
+14:25:33 Build Failed. 1 errors, 0 warnings. (took 805ms)
+

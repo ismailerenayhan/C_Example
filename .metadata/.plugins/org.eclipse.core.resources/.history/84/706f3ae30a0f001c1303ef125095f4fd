@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(int argc, char **argv) {
+	unsigned char num=0b11111000;
+	printf("%d",num);
+	return 0;
+}
+
+
+

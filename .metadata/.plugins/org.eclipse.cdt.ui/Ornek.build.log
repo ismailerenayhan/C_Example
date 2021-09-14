@@ -1,0 +1,12 @@
+20:26:03 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:9: warning: unknown conversion type character 'l' in format [-Wformat=]
+  printf("%llx\n",tumler64(0));
+         ^
+..\Src\main.c:14:9: warning: too many arguments for format [-Wformat-extra-args]
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+
+20:26:05 Build Finished. 0 errors, 2 warnings. (took 1s.729ms)
+

@@ -1,0 +1,8 @@
+10:23:27 **** Incremental Build of configuration Debug for project Example_0 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Example_0.o" "..\\src\\Example_0.c" 
+..\src\Example_0.c:3:21: fatal error: example.h: No such file or directory
+compilation terminated.
+
+10:23:28 Build Failed. 1 errors, 0 warnings. (took 1s.39ms)
+

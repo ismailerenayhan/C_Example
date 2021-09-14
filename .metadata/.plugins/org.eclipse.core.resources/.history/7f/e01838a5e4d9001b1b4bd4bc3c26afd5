@@ -1,0 +1,6 @@
+#include "lib.h"
+void strprint(char str[]){
+	printf("%s",str);
+}
+
+

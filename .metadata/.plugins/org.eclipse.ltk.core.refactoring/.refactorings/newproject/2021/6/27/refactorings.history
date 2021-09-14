@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;newproject/src/l&apos; to &apos;lib.h&apos;" description="Rename resource &apos;l&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/l" name="lib.h" stamp="1625049529189" updateReferences="true"/>
+</session>

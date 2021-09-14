@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <conio.h>
+#include "lib.h"
+
+int main(int argc, char **argv) {
+	struct kitap kit1={.isim='a',.sayfasayisi=300,.puan=9};
+	struct kitap kit2={.isim='b',.sayfasayisi=100,.puan=8};
+	chrprint(kit1.isim);
+	strprint(kit2);
+	struct kitap *ptrkit;
+	ptrkit=&kit1;
+	strdoldur(ptrkit);
+	strprint(kit1);
+	getch();
+}

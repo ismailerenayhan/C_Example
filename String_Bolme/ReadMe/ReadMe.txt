@@ -1,0 +1,1 @@
+Bu proje string bölmeye yarýyor.

@@ -1,0 +1,3 @@
+C:/ISMAIL/C/pointerdeneme/cmake-build-debug/CMakeFiles/pointerdeneme.dir
+C:/ISMAIL/C/pointerdeneme/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ISMAIL/C/pointerdeneme/cmake-build-debug/CMakeFiles/rebuild_cache.dir

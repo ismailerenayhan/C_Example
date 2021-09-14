@@ -1,0 +1,7 @@
+#ifndef LIB_H_
+#define LIB_H_
+#endif
+#include <stdio.h>
+
+void strprint(struct kitap kit);
+void chrprint(char chr);

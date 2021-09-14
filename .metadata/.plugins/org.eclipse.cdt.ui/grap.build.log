@@ -1,0 +1,11 @@
+11:07:55 **** Incremental Build of configuration Debug for project grap ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+In file included from ..\main.c:1:
+..\graphics.h:30:10: fatal error: sstream: No such file or directory
+ #include <sstream>          // Provides std::ostringstream
+          ^~~~~~~~~
+compilation terminated.
+
+11:07:58 Build Failed. 1 errors, 0 warnings. (took 2s.771ms)
+

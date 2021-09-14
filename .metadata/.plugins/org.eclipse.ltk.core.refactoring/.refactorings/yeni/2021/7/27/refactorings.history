@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;yeni/source/structlib.h&apos; to &apos;structlib.c&apos;" description="Rename resource &apos;structlib.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="source/structlib.h" name="structlib.c" stamp="1625235998562" updateReferences="true"/>
+</session>

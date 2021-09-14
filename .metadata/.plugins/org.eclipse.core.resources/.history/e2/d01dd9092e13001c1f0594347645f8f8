@@ -1,0 +1,45 @@
+#include "states.h"
+
+//---- INSERTION SORT ALGORITHM ----//
+void insertion(uint8_t array[],uint8_t size){
+    uint8_t i,j,temp;
+
+    for(i=0;i<size;i++){
+        for(j=0;j<i+1;j++){
+            if(array[j]>array[i]){
+                temp=array[i];
+                array[i]=array[j];
+                array[j]=temp;
+            }
+        }
+    }
+}
+
+
+void print_array(uint8_t array[],uint8_t size){
+	insertion(array,size);
+	uint8_t i;
+	for(i=0;i<size;i++){
+		printf("%d. %d\n",i,array[i]);
+	}
+}
+
+uint8_t find_median(uint8_t array[],uint8_t size){
+	insertion(array,size);
+	return array[(size/2)];
+}
+
+uint32_t find_mean(uint8_t array[],uint8_t size){
+	insertion(array,size);
+	uint32_t buf=0;uint8_t i;
+	for(i=0;i<size;i++){
+		buf+=array[i];
+	}
+	return (buf/size);
+}
+
+uint8_t find_minimum(uint8_t array[],uint8_t size){
+	insertion(array,size);
+	return array[0];
+}
+

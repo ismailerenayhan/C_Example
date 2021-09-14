@@ -1,0 +1,3 @@
+C:/ISMAIL/C/new/cmake-build-debug/CMakeFiles/new.dir
+C:/ISMAIL/C/new/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ISMAIL/C/new/cmake-build-debug/CMakeFiles/rebuild_cache.dir

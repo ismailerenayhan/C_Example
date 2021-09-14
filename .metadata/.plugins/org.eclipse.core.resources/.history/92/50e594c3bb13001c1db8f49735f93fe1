@@ -1,0 +1,22 @@
+/*
+ * states.h
+ *
+ *  Created on: 11 Eyl 2021
+ *      Author: ismai
+ */
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdint.h>
+
+#ifndef STATES_H_
+#define STATES_H_
+
+void sort_array(uint8_t array[],uint8_t size);
+void print_array(uint8_t array[],uint8_t size);
+uint8_t find_median(uint8_t array[],uint8_t size);
+uint32_t find_mean(uint8_t array[],uint8_t size);
+uint8_t find_minimum(uint8_t array[],uint8_t size);
+uint8_t find_maximum(uint8_t array[],uint8_t size);
+void print_statistics(uint8_t array[],uint8_t size);
+
+#endif /* STATES_H_ */

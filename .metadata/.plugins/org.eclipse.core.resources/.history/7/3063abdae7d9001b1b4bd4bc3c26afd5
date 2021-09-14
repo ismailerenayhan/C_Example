@@ -1,0 +1,4 @@
+#include "lib.h"
+void chrprint(char chr){
+	printf("%c",chr);
+}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;tekcift/Debug/toplacikar.exe&apos;" deleteContents="false" description="Delete resource &apos;tekcift/Debug/toplacikar.exe&apos;" element1="/tekcift/Debug/toplacikar.exe" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1630674289781"/>&#x0A;<refactoring comment="Delete resource &apos;tekcift/Debug/tekciftsiralama.o&apos;" deleteContents="false" description="Delete resource &apos;tekcift/Debug/tekciftsiralama.o&apos;" element1="/tekcift/Debug/tekciftsiralama.o" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1630674297438"/>
+</session>

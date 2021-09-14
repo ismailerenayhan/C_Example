@@ -1,0 +1,4 @@
+#include "lib.h"
+void strprint(struct kitap one){
+	printf("%c",one);
+}

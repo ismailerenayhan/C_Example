@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include "lib.h"
+struct kitap {
+	char isim;
+	int sayfasayisi;
+	int puan;
+};
+void strprint(struct kitap kit);
+int main(int argc, char **argv) {
+	struct kitap kit1={.isim='a',.sayfasayisi=300,.puan=9};
+	struct kitap kit2={.isim='b',.sayfasayisi=100,.puan=8};
+	chrprint(kit1.isim);
+}
+
+void strprint(struct kitap kit){
+	printf("%c  %d  %d",kit.isim,kit.puan,kit.sayfasayisi);
+}

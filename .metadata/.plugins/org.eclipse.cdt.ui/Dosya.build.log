@@ -1,0 +1,6 @@
+00:43:46 **** Incremental Build of configuration Debug for project Dosya ****
+Info: Internal Builder is used for build
+gcc -o Dosya.exe "Src\\Dos.o" "Src\\main.o" 
+
+00:43:46 Build Finished. 0 errors, 0 warnings. (took 935ms)
+

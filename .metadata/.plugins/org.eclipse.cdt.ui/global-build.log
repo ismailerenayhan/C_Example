@@ -1,0 +1,1012 @@
+21:04:04 **** Incremental Build of configuration Release for project mehmet_uyar ****
+Info: Internal Builder is used for build
+gcc -O3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o mehmet_uyar.exe main.o 
+21:06:17 **** Incremental Build of configuration Release for project mehmet_uyar ****
+Info: Internal Builder is used for build
+gcc -O3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:10:9: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'float *' [-Wformat=]
+   scanf("%d",&dizi[i]);
+         ^
+gcc -o mehmet_uyar.exe main.o 
+21:07:00 **** Incremental Build of configuration Release for project mehmet_uyar ****
+Info: Internal Builder is used for build
+gcc -O3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o mehmet_uyar.exe main.o 
+15:52:10 **** Rebuild of configuration Debug for project toplacikar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o tekciftsiralama.o "..\\tekciftsiralama.c" 
+gcc -o toplacikar.exe tekciftsiralama.o 
+15:59:59 **** Incremental Build of configuration Debug for project toplacikar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o tekciftsiralama.o "..\\tekciftsiralama.c" 
+gcc -o toplacikar.exe tekciftsiralama.o 
+16:02:03 **** Incremental Build of configuration Debug for project toplacikar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o tekciftsiralama.o "..\\tekciftsiralama.c" 
+gcc -o toplacikar.exe tekciftsiralama.o 
+16:09:41 **** Rebuild of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:10:08 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:10:32 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:11:07 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:9: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d",sayilar[i]);
+         ^
+gcc -o tekcift.exe main.o 
+16:11:24 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:13:00 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:16:47 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:18:39 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:19:05 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:19:56 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:21:21 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:22:46 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:26:27 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:28:49 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:29:43 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:30:29 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+Info: Nothing to build for tekcift
+16:31:19 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:37:32 **** Incremental Build of configuration Debug for project tekcift ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o tekcift.exe main.o 
+16:53:20 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+16:57:43 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+Info: Nothing to build for tekcift
+16:59:15 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+16:59:41 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:7:14: warning: missing braces around initializer [-Wmissing-braces]
+  int a[2][2]={8,9,3,2};
+              ^
+..\Src\main.c:7:14: note: (near initialization for 'a')
+..\Src\main.c:8:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(a, 5);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\Ornek\Inc/mylib.h:14:6: note: expected 'int *' but argument is of type 'int (*)[2]'
+ void insertion(int array[],int size);
+      ^
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:00:24 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:7:14: warning: missing braces around initializer [-Wmissing-braces]
+  int a[2][2]={8,9,3,2};
+              ^
+..\Src\main.c:7:14: note: (near initialization for 'a')
+..\Src\main.c:8:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(a, 4);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\Ornek\Inc/mylib.h:14:6: note: expected 'int *' but argument is of type 'int (*)[2]'
+ void insertion(int array[],int size);
+      ^
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:01:23 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+Info: Nothing to build for Ornek
+17:01:35 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+Info: Nothing to build for Ornek
+17:02:08 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:02:25 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:02:42 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:05:32 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:11:14: warning: implicit declaration of function 'ikicarp' [-Wimplicit-function-declaration]
+  printf("%d",ikicarp(5));
+              ^
+..\Src\main.c:7:6: warning: unused variable 'a' [-Wunused-variable]
+  int a[4]={8,9,3,2};
+      ^
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:07:00 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:11:14: warning: implicit declaration of function 'ikicarp' [-Wimplicit-function-declaration]
+  printf("%d",ikicarp(5));
+              ^
+..\Src\main.c:12:14: warning: implicit declaration of function 'ikibol' [-Wimplicit-function-declaration]
+  printf("%d",ikibol(20));
+              ^
+..\Src\main.c:7:6: warning: unused variable 'a' [-Wunused-variable]
+  int a[4]={8,9,3,2};
+      ^
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:07:25 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:7:6: warning: unused variable 'a' [-Wunused-variable]
+  int a[4]={8,9,3,2};
+      ^
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:07:51 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:08:10 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:08:25 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:12:9: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int' [-Wformat=]
+  printf("%f",ikibol(5));
+         ^
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:09:11 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+17:09:48 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:42:49 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:45:22 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+..\Src\mylib.c: In function 'tumler8':
+..\Src\mylib.c:74:6: warning: 'buf' is used uninitialized in this function [-Wuninitialized]
+  int buf = buf | a;
+      ^
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:46:09 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:47:24 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:47:36 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:48:01 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:49:18 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:50:37 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+..\Src\mylib.c:73:10: error: conflicting types for 'tumler8'
+ uint64_t tumler8(int a){
+          ^
+In file included from ..\Src\mylib.c:1:0:
+C:\ISMAIL\C\Ornek\Inc/mylib.h:23:5: note: previous declaration of 'tumler8' was here
+ int tumler8(int a);
+     ^
+19:50:56 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:13:9: warning: format '%d' expects argument of type 'int', but argument 2 has type 'uint64_t {aka long long unsigned int}' [-Wformat=]
+  printf("%d\n",tumler8(8));
+         ^
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:51:22 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:51:56 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:55:00 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:55:28 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:55:59 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:56:17 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:56:34 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:58:35 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:59:25 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+19:59:50 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+20:00:12 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+20:22:37 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\mylib.o" "..\\Src\\mylib.c" 
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:9: warning: format '%d' expects argument of type 'int', but argument 2 has type 'uint64_t {aka long long unsigned int}' [-Wformat=]
+  printf("%d\n",tumler64(1023));
+         ^
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+20:22:55 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:9: warning: unknown conversion type character 0xa in format [-Wformat=]
+  printf("%l\n",tumler64(1023));
+         ^
+..\Src\main.c:14:9: warning: too many arguments for format [-Wformat-extra-args]
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+20:24:01 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:9: warning: unknown conversion type character 'l' in format [-Wformat=]
+  printf("%llu\n",tumler64(1023));
+         ^
+..\Src\main.c:14:9: warning: too many arguments for format [-Wformat-extra-args]
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+20:24:49 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:9: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'uint64_t {aka long long unsigned int}' [-Wformat=]
+  printf("%x\n",tumler64(0));
+         ^
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+20:25:06 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:18: error: too few arguments to function 'tumler64'
+  printf("%llx\n",tumler64());
+                  ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\Ornek\Inc/mylib.h:29:10: note: declared here
+ uint64_t tumler64(uint64_t number);
+          ^
+20:25:14 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:17: error: too few arguments to function 'tumler64'
+  printf("%lx\n",tumler64());
+                 ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\Ornek\Inc/mylib.h:29:10: note: declared here
+ uint64_t tumler64(uint64_t number);
+          ^
+20:25:26 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:19: error: too few arguments to function 'tumler64'
+  printf("%x.20\n",tumler64());
+                   ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\Ornek\Inc/mylib.h:29:10: note: declared here
+ uint64_t tumler64(uint64_t number);
+          ^
+20:25:37 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:18: error: too few arguments to function 'tumler64'
+  printf("%llu\n",tumler64());
+                  ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\Ornek\Inc/mylib.h:29:10: note: declared here
+ uint64_t tumler64(uint64_t number);
+          ^
+20:25:50 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:9: warning: unknown conversion type character 'l' in format [-Wformat=]
+  printf("%llx\n",tumler64(1023));
+         ^
+..\Src\main.c:14:9: warning: too many arguments for format [-Wformat-extra-args]
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+20:26:03 **** Incremental Build of configuration Debug for project Ornek ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\Ornek\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:9: warning: unknown conversion type character 'l' in format [-Wformat=]
+  printf("%llx\n",tumler64(0));
+         ^
+..\Src\main.c:14:9: warning: too many arguments for format [-Wformat-extra-args]
+gcc -o Ornek.exe "Src\\main.o" "Src\\mylib.o" 
+14:54:15 **** Rebuild of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:2:41: error: lvalue required as increment operand
+ #define myfunction(A)((unsigned char) (A++))
+                                         ^
+..\main.c:5:14: note: in expansion of macro 'myfunction'
+  printf("%d",myfunction(9));
+              ^
+14:54:42 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:2:41: error: lvalue required as increment operand
+ #define myfunction(a)((unsigned char) (a++))
+                                         ^
+..\main.c:5:14: note: in expansion of macro 'myfunction'
+  printf("%d",myfunction(9));
+              ^
+14:55:06 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o bit_islem.exe main.o 
+15:01:02 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o bit_islem.exe main.o 
+15:01:56 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:2:22: warning: statement with no effect [-Wunused-value]
+ #define myfunction(a)((unsigned char) (1>>a))
+                      ^
+..\main.c:6:2: note: in expansion of macro 'myfunction'
+  myfunction(a);
+  ^
+gcc -o bit_islem.exe main.o 
+15:02:40 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:2:22: warning: statement with no effect [-Wunused-value]
+ #define myfunction(a)((unsigned char) (1>>a))
+                      ^
+..\main.c:6:2: note: in expansion of macro 'myfunction'
+  myfunction(a);
+  ^
+gcc -o bit_islem.exe main.o 
+15:03:17 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:2:23: warning: value computed is not used [-Wunused-value]
+ #define myfunction(a)((unsigned char) (1>>a))
+                       ^
+..\main.c:6:2: note: in expansion of macro 'myfunction'
+  myfunction(a);
+  ^
+..\main.c:2:23: warning: value computed is not used [-Wunused-value]
+ #define myfunction(a)((unsigned char) (1>>a))
+                       ^
+..\main.c:7:2: note: in expansion of macro 'myfunction'
+  myfunction(a);
+  ^
+gcc -o bit_islem.exe main.o 
+15:03:58 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:2:39: error: expected expression before 'return'
+ #define myfunction(a)((unsigned char) return(1>>a))
+                                       ^
+..\main.c:6:14: note: in expansion of macro 'myfunction'
+  printf("%d",myfunction(a));
+              ^
+..\main.c:5:25: warning: unused variable 'a' [-Wunused-variable]
+  volatile unsigned char a =9;
+                         ^
+15:05:40 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o bit_islem.exe main.o 
+15:06:08 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o bit_islem.exe main.o 
+15:06:24 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o bit_islem.exe main.o 
+15:06:39 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o bit_islem.exe main.o 
+15:17:04 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:8:9: warning: unknown conversion type character 'b' in format [-Wformat=]
+  printf("%b",num);
+         ^
+..\main.c:8:9: warning: too many arguments for format [-Wformat-extra-args]
+..\main.c:9:9: warning: zero-length ms_printf format string [-Wformat-zero-length]
+  printf("");
+         ^
+gcc -o bit_islem.exe main.o 
+15:20:43 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o bit_islem.exe main.o 
+15:21:15 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o bit_islem.exe main.o 
+15:22:05 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o bit_islem.exe main.o 
+15:22:24 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o bit_islem.exe main.o 
+15:26:40 **** Incremental Build of configuration Debug for project bit_islem ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o bit_islem.exe main.o 
+20:29:59 **** Rebuild of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:6:16: warning: unused variable 'test' [-Wunused-variable]
+  unsigned char test[SIZE] = { 34, 201, 190, 154,   8, 194,   2,   6,
+                ^
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+20:40:42 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:12:2: warning: implicit declaration of function 'insertion' [-Wimplicit-function-declaration]
+  insertion(test, SIZE);
+  ^
+..\Src\main.c:14:19: warning: array subscript has type 'char' [-Wchar-subscripts]
+   printf("%d",test[i]);
+                   ^
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+20:41:28 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:12:2: warning: implicit declaration of function 'insertion' [-Wimplicit-function-declaration]
+  insertion(test, SIZE);
+  ^
+..\Src\main.c:14:19: warning: array subscript has type 'char' [-Wchar-subscripts]
+   printf("%d",test[i]);
+                   ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+20:42:52 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:12:2: warning: implicit declaration of function 'insertion' [-Wimplicit-function-declaration]
+  insertion(test, SIZE);
+  ^
+..\Src\main.c:14:25: warning: array subscript has type 'char' [-Wchar-subscripts]
+   printf("%d. %d",i,test[i]);
+                         ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+20:43:12 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:12:2: warning: implicit declaration of function 'insertion' [-Wimplicit-function-declaration]
+  insertion(test, SIZE);
+  ^
+..\Src\main.c:14:27: warning: array subscript has type 'char' [-Wchar-subscripts]
+   printf("%d. %d\n",i,test[i]);
+                           ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+20:43:29 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:12:2: warning: implicit declaration of function 'insertion' [-Wimplicit-function-declaration]
+  insertion(test, SIZE);
+  ^
+..\Src\main.c:14:27: warning: array subscript has type 'char' [-Wchar-subscripts]
+   printf("%d. %d\n",i,test[i]);
+                           ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+20:53:27 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:13:2: warning: implicit declaration of function 'insertion' [-Wimplicit-function-declaration]
+  insertion(test, SIZE);
+  ^
+..\Src\main.c:14:2: warning: implicit declaration of function 'print_array' [-Wimplicit-function-declaration]
+  print_array(test, SIZE);
+  ^
+..\Src\main.c:7:7: warning: unused variable 'i' [-Wunused-variable]
+  char i=0;
+       ^
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+..\Src\states.c:1:20: fatal error: states.h: No such file or directory
+compilation terminated.
+20:53:56 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:13:2: warning: implicit declaration of function 'insertion' [-Wimplicit-function-declaration]
+  insertion(test, SIZE);
+  ^
+..\Src\main.c:14:2: warning: implicit declaration of function 'print_array' [-Wimplicit-function-declaration]
+  print_array(test, SIZE);
+  ^
+..\Src\main.c:7:7: warning: unused variable 'i' [-Wunused-variable]
+  char i=0;
+       ^
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+..\Src\states.c:1:20: fatal error: states.h: No such file or directory
+compilation terminated.
+20:55:14 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:13:2: warning: implicit declaration of function 'insertion' [-Wimplicit-function-declaration]
+  insertion(test, SIZE);
+  ^
+..\Src\main.c:14:2: warning: implicit declaration of function 'print_array' [-Wimplicit-function-declaration]
+  print_array(test, SIZE);
+  ^
+..\Src\main.c:7:7: warning: unused variable 'i' [-Wunused-variable]
+  char i=0;
+       ^
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+20:56:05 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:13:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(test, SIZE);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:14:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void insertion(int array[],int size);
+      ^
+..\Src\main.c:14:2: warning: implicit declaration of function 'print_array' [-Wimplicit-function-declaration]
+  print_array(test, SIZE);
+  ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+20:56:42 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:13:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(test, SIZE);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:14:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void insertion(int array[],int size);
+      ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+20:58:08 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+20:59:00 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:13:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(test, SIZE);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:14:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void insertion(int array[],int size);
+      ^
+..\Src\main.c:14:14: warning: passing argument 1 of 'print_array' from incompatible pointer type [-Wincompatible-pointer-types]
+  print_array(&test, SIZE);
+              ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:15:6: note: expected 'uint8_t * {aka unsigned char *}' but argument is of type 'uint8_t (*)[40] {aka unsigned char (*)[40]}'
+ void print_array(uint8_t *array,uint8_t size);
+      ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+20:59:58 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:13:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(test, SIZE);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:14:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void insertion(int array[],int size);
+      ^
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+..\Src\states.c:22:32: error: 'i' undeclared here (not in a function)
+ void print_array(uint8_t array[i],uint8_t size){
+                                ^
+21:00:19 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:03:06 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:13:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(test, SIZE);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:14:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void insertion(int array[],int size);
+      ^
+..\Src\main.c:14:14: warning: passing argument 1 of 'print_array' from incompatible pointer type [-Wincompatible-pointer-types]
+  print_array(test, SIZE);
+              ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:15:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void print_array(int array[],int size);
+      ^
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:03:38 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:13:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(test, SIZE);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:14:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void insertion(int array[],int size);
+      ^
+..\Src\main.c:14:14: warning: passing argument 1 of 'print_array' from incompatible pointer type [-Wincompatible-pointer-types]
+  print_array(test, 40);
+              ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:15:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void print_array(int array[],int size);
+      ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:04:47 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(test, SIZE);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:14:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void insertion(int array[],int size);
+      ^
+..\Src\main.c:16:27: warning: array subscript has type 'char' [-Wchar-subscripts]
+   printf("%d. %d\n",i,test[i]);
+                           ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:04:54 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(test, 40);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:14:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void insertion(int array[],int size);
+      ^
+..\Src\main.c:16:27: warning: array subscript has type 'char' [-Wchar-subscripts]
+   printf("%d. %d\n",i,test[i]);
+                           ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:05:21 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(test, 40);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:14:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void insertion(int array[],int size);
+      ^
+..\Src\main.c:16:27: warning: array subscript has type 'char' [-Wchar-subscripts]
+   printf("%d. %d\n",i,test[i]);
+                           ^
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:05:56 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:16:27: warning: array subscript has type 'char' [-Wchar-subscripts]
+   printf("%d. %d\n",i,test[i]);
+                           ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:07:50 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:14:12: warning: passing argument 1 of 'insertion' from incompatible pointer type [-Wincompatible-pointer-types]
+  insertion(test, 40);
+            ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:14:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void insertion(int array[],int size);
+      ^
+..\Src\main.c:18:14: warning: passing argument 1 of 'print_array' from incompatible pointer type [-Wincompatible-pointer-types]
+  print_array(test, 40);
+              ^
+In file included from ..\Src\main.c:4:0:
+C:\ISMAIL\C\states\Inc/states.h:15:6: note: expected 'int *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void print_array(int array[],int size);
+      ^
+..\Src\main.c:8:7: warning: unused variable 'i' [-Wunused-variable]
+  char i;
+       ^
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+..\Src\states.c:4:6: error: conflicting types for 'insertion'
+ void insertion(uint8_t array[],uint8_t size){
+      ^
+In file included from ..\Src\states.c:1:0:
+C:\ISMAIL\C\states\Inc/states.h:14:6: note: previous declaration of 'insertion' was here
+ void insertion(int array[],int size);
+      ^
+..\Src\states.c:22:6: error: conflicting types for 'print_array'
+ void print_array(uint8_t array[],uint8_t size){
+      ^
+In file included from ..\Src\states.c:1:0:
+C:\ISMAIL\C\states\Inc/states.h:15:6: note: previous declaration of 'print_array' was here
+ void print_array(int array[],int size);
+      ^
+21:08:28 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:8:7: warning: unused variable 'i' [-Wunused-variable]
+  char i;
+       ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:09:24 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:13:26 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:17:14: warning: implicit declaration of function 'find_median' [-Wimplicit-function-declaration]
+  printf("%d",find_median(test, 40));
+              ^
+..\Src\main.c:8:7: warning: unused variable 'i' [-Wunused-variable]
+  char i;
+       ^
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:22:02 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:23:27 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:24:30 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:30:12 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:31:22 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:31:52 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+21:39:37 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+..\Src\states.c: In function 'print_array':
+..\Src\states.c:20:2: warning: implicit declaration of function 'insertion' [-Wimplicit-function-declaration]
+  insertion(array,size);
+  ^
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+..\Src\main.c: In function 'main':
+..\Src\main.c:19:2: warning: implicit declaration of function 'print_statistics' [-Wimplicit-function-declaration]
+  print_statistics(test, SIZE);
+  ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+Src\states.o: In function `print_array':
+C:\ISMAIL\C\states\Debug/../Src/states.c:20: undefined reference to `insertion'
+Src\states.o: In function `find_median':
+C:\ISMAIL\C\states\Debug/../Src/states.c:28: undefined reference to `insertion'
+Src\states.o: In function `find_mean':
+C:\ISMAIL\C\states\Debug/../Src/states.c:33: undefined reference to `insertion'
+Src\states.o: In function `find_minimum':
+C:\ISMAIL\C\states\Debug/../Src/states.c:42: undefined reference to `insertion'
+Src\states.o: In function `find_maximum':
+C:\ISMAIL\C\states\Debug/../Src/states.c:47: undefined reference to `insertion'
+collect2.exe: error: ld returned 1 exit status
+21:39:53 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+..\Src\states.c: In function 'print_array':
+..\Src\states.c:20:2: warning: implicit declaration of function 'insertion' [-Wimplicit-function-declaration]
+  insertion(array,size);
+  ^
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+Src\states.o: In function `print_array':
+C:\ISMAIL\C\states\Debug/../Src/states.c:20: undefined reference to `insertion'
+Src\states.o: In function `find_median':
+C:\ISMAIL\C\states\Debug/../Src/states.c:28: undefined reference to `insertion'
+Src\states.o: In function `find_mean':
+C:\ISMAIL\C\states\Debug/../Src/states.c:33: undefined reference to `insertion'
+Src\states.o: In function `find_minimum':
+C:\ISMAIL\C\states\Debug/../Src/states.c:42: undefined reference to `insertion'
+Src\states.o: In function `find_maximum':
+C:\ISMAIL\C\states\Debug/../Src/states.c:47: undefined reference to `insertion'
+collect2.exe: error: ld returned 1 exit status
+21:40:29 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+14:22:53 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+14:24:39 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+gcc -o states.exe "Src\\main.o" "Src\\states.o" 
+Src\states.o: In function `main':
+C:\ISMAIL\C\states\Debug/../Src/states.c:60: multiple definition of `main'
+Src\main.o:C:\ISMAIL\C\states\Debug/../Src/main.c:7: first defined here
+collect2.exe: error: ld returned 1 exit status
+14:25:32 **** Incremental Build of configuration Debug for project states ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\states\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\states.o" "..\\Src\\states.c" 
+..\Src\states.c:61:8: error: expected declaration specifiers or '...' before string constant
+ printf("Hello World");
+        ^
+14:35:26 **** Build of configuration Debug for project stm32_example_ ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/eclipsec//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.1.v20210528-1205/jre/bin/server;C:/Program Files/eclipsec//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.1.v20210528-1205/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Hardwipe\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microchip\xc8\v2.31\bin;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\wamp64\bin\php\php7.3.21\php.exe;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Mono\bin;C:\TDM-GCC-64\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ismai\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\ismai\AppData\Local\Programs\Python\Python39\;C:\Users\ismai\AppData\Local\Microsoft\WindowsApps;C:\Users\ismai\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.1\bin;;C:\Program Files\JetBrains\CLion 2021.1.1\bin;;C:\Users\ismai\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Users\ismai\AppData\Local\GitHubDesktop\bin;C:\Users\ismai\Desktop;]
+14:35:41 **** Incremental Build of configuration Debug for project stm32_example_ ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/eclipsec//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.1.v20210528-1205/jre/bin/server;C:/Program Files/eclipsec//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.1.v20210528-1205/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Hardwipe\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microchip\xc8\v2.31\bin;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\wamp64\bin\php\php7.3.21\php.exe;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Mono\bin;C:\TDM-GCC-64\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ismai\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\ismai\AppData\Local\Programs\Python\Python39\;C:\Users\ismai\AppData\Local\Microsoft\WindowsApps;C:\Users\ismai\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.1\bin;;C:\Program Files\JetBrains\CLion 2021.1.1\bin;;C:\Users\ismai\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Users\ismai\AppData\Local\GitHubDesktop\bin;C:\Users\ismai\Desktop;]
+14:35:48 **** Incremental Build of configuration Debug for project stm32_example_ ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/eclipsec//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.1.v20210528-1205/jre/bin/server;C:/Program Files/eclipsec//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.1.v20210528-1205/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Hardwipe\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microchip\xc8\v2.31\bin;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\wamp64\bin\php\php7.3.21\php.exe;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Mono\bin;C:\TDM-GCC-64\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ismai\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\ismai\AppData\Local\Programs\Python\Python39\;C:\Users\ismai\AppData\Local\Microsoft\WindowsApps;C:\Users\ismai\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.1\bin;;C:\Program Files\JetBrains\CLion 2021.1.1\bin;;C:\Users\ismai\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Users\ismai\AppData\Local\GitHubDesktop\bin;C:\Users\ismai\Desktop;]
+14:37:05 **** Incremental Build of configuration Debug for project stm32_example_ ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/eclipsec//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.1.v20210528-1205/jre/bin/server;C:/Program Files/eclipsec//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.1.v20210528-1205/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Hardwipe\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microchip\xc8\v2.31\bin;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\wamp64\bin\php\php7.3.21\php.exe;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Mono\bin;C:\TDM-GCC-64\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ismai\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\ismai\AppData\Local\Programs\Python\Python39\;C:\Users\ismai\AppData\Local\Microsoft\WindowsApps;C:\Users\ismai\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.1\bin;;C:\Program Files\JetBrains\CLion 2021.1.1\bin;;C:\Users\ismai\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Users\ismai\AppData\Local\GitHubDesktop\bin;C:\Users\ismai\Desktop;]

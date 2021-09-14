@@ -1,0 +1,8 @@
+11:36:16 **** Incremental Build of configuration Debug for project mqtt ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MQTTAsync_subscribe.o" "..\\src\\MQTTAsync_subscribe.c" 
+..\src\MQTTAsync_subscribe.c:20:23: fatal error: MQTTAsync.h: No such file or directory
+compilation terminated.
+
+11:36:16 Build Failed. 1 errors, 0 warnings. (took 533ms)
+

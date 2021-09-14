@@ -1,0 +1,8 @@
+10:26:59 **** Rebuild of configuration Debug for project structlib ****
+Info: Internal Builder is used for build
+gcc "-IC:\\ISMAIL\\C\\structlib\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\main.o" "..\\Src\\main.c" 
+gcc "-IC:\\ISMAIL\\C\\structlib\\Inc" -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\strctlib.o" "..\\Src\\strctlib.c" 
+gcc -o structlib.exe "Src\\main.o" "Src\\strctlib.o" 
+
+10:27:01 Build Finished. 0 errors, 0 warnings. (took 1s.958ms)
+

@@ -1,0 +1,12 @@
+#include "lib.h"
+void chrprint(char chr){
+	printf("%c\n",chr);
+}
+
+void strprint(struct kitap kit){
+	printf("%c  %d  %d\n",kit.isim,kit.puan,kit.sayfasayisi);
+}
+
+void strdoldur(struct kitap *ptr){
+
+}

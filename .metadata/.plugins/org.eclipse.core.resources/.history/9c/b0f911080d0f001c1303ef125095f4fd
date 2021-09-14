@@ -1,0 +1,16 @@
+#include <stdio.h>
+void masp(unsigned char bin){
+	bin=bin | 0b00000001;
+}
+
+int main(int argc, char **argv) {
+	unsigned char num=0b01111000;
+	printf("%d",num);
+	//masp(num);
+	num=num | 0b00000001;
+	printf("%d",num);
+	return 0;
+}
+
+
+

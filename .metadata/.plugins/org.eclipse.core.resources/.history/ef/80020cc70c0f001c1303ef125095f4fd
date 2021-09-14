@@ -1,0 +1,14 @@
+#include <stdio.h>
+void mask(unsigned char bin){
+
+}
+
+int main(int argc, char **argv) {
+	unsigned char num=0b01111000;
+	printf("%d",num);
+	printf("");
+	return 0;
+}
+
+
+
